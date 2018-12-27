@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Una atmósfera perdida
+excerpt: Hasta ahora sólo podíamos elucubrar sobre qué hizo que Marte...
 ---
 
 <div class="entry" style="margin: 0px; padding: 0px; border: 0px; font-stretch: inherit; font-size: 18px; line-height: 1.6em; font-family: Titillium, Arial, sans-serif; vertical-align: baseline; color: rgb(102, 102, 102);">
