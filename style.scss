@@ -242,13 +242,13 @@ nav {
 //
 
 .posts > .post {
-  :hover {
-    background-color: #eee;
-  }
-
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 1px solid $lightGray;
+}
+
+.posts > .post:hover {
+  background-color: #eee;
 }
 
 .posts > .post:last-child {
