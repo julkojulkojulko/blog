@@ -242,19 +242,20 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  :hover {
+    background-color: #eee;
+  }
+
+  padding: 1em;
+  margin-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
   border-bottom: none;
 }
 
 .post {
-  :hover {
-    background-color: #ccc
-  }
 
   blockquote {
     margin: 1.8em .8em;
