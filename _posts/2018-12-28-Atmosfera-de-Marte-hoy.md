@@ -3,6 +3,7 @@ layout: post
 title: Marte no siempre fué asi
 excerpt: Marte en su juventud era un mundo muy diferente.
 ---
+
 Es posible que, hace 3.800 millones de años, Marte tuviese un aspecto similar a éste.
 Crédito: Usuario “Ittiz” de Wikipedia
 En su juventud, Marte era un mundo muy diferente. Por sus regiones más antiguas, sabemos que debió haber una cantidad muy abundante de agua en estado líquido (ya que podemos ver valles formados por el paso de ríos, así como depósitos de minerales que sólo se forman en presencia de agua líquida, que sigue existiendo incluso hoy día) y es posible que hasta llegase a tener algún tipo de forma de vida. Si la hubo, debió migrar hacia el interior del planeta cuando éste perdió su campo magnético.
