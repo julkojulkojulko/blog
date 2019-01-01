@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Marte no siempre fué asi
-excerpt: Marte en su juventud era un mundo muy diferente.
+title: Medición del cielo nocturno de las Islas Cies
+excerpt: Contaminación lúminica sobre las Islas Cies
 ---
 
-- heartless.
-- la armadura de dios.
-- Dead snow funny moment
-polabra: ksdfsjdflkjfkasjfklsdjfklsdjfñklasjfñlksjfñlksdjfklñsfklñs
-lñsfasflñaksflkslñf
-aj´s´fasflkalksfñlkslñk
+Las luces de Vigo influyen con la contaminación lumínica sobre las Islas Cies.
+[contaminación luminica en cies](../images/cies.jpg)
