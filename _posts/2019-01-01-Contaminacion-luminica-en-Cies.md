@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Medición del cielo nocturno de las Islas Cies
+title: Contaminación de Vigo visto desde las Islas Cies.
 excerpt: Contaminación lúminica sobre las Islas Cies
 ---
 
