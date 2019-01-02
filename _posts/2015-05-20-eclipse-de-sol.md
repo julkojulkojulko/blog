@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Eclipse parcial de sol
+title: # Eclipse parcial de sol
 excerpt: Imagenes del eclipse parcial de sol del 20 del 05 de 2015.
 ---
 
